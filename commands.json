@@ -1,0 +1,82 @@
+[
+  {
+    "name": "activeannouncements",
+    "file": "src/commands/activeannouncements.js"
+  },
+  {
+    "name": "addannouncement",
+    "file": "src/commands/addannouncement.js"
+  },
+  {
+    "name": "addcourse",
+    "file": "src/commands/addcourse.js"
+  },
+  {
+    "name": "addlecturer",
+    "file": "src/commands/addlecturer.js"
+  },
+  {
+    "name": "admin",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "announcements",
+    "file": "src/commands/announcements.js"
+  },
+  {
+    "name": "course",
+    "file": "src/commands/course.js"
+  },
+  {
+    "name": "deleteannouncement",
+    "file": "src/commands/deleteannouncement.js"
+  },
+  {
+    "name": "department",
+    "file": "src/commands/department.js"
+  },
+  {
+    "name": "departmentinfo",
+    "file": "src/commands/departmentinfo.js"
+  },
+  {
+    "name": "findlecturer",
+    "file": "src/commands/findlecturer.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "latest",
+    "file": "src/commands/latest.js"
+  },
+  {
+    "name": "lecturer",
+    "file": "src/commands/lecturer.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "timetable",
+    "file": "src/commands/timetable.js"
+  },
+  {
+    "name": "updateannouncement",
+    "file": "src/commands/updateannouncement.js"
+  },
+  {
+    "name": "updatecourse",
+    "file": "src/commands/updatecourse.js"
+  },
+  {
+    "name": "updatelecturer",
+    "file": "src/commands/updatelecturer.js"
+  },
+  {
+    "name": "updatetimetable",
+    "file": "src/commands/updatetimetable.js"
+  }
+]
